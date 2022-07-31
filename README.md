@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **Ecommerce**
 
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **Typescript,docker**
+
+- 💬 Ask me about **MERN stack and related technologies**
 
 - 📫 How to reach me **sreeshilck777@gmail.com**
 
