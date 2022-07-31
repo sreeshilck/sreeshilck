@@ -1,4 +1,5 @@
- ![ Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://raw.githubusercontent.com/sreeshilck/sreeshilck/main/banner.jpg))
+ 
+![Banner](https://raw.githubusercontent.com/sreeshilck/sreeshilck/main/banner.jpg) 
 
 <h1 align="center">Hi 👋, I'm Sreeshil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
