@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **sreeshilck777@gmail.com**
 
-## ❤️ Let's get connected:
+## ❤️ Let's get connected:\
 
 <p>
 <a href="https://twitter.com/cksreeshil" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://linkedin.com/in/sreeshil-ck/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/> <a href="https://instagram.com/_sree_shil" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use:\
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -45,7 +45,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+</p>\\
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeshilck&show_icons=true&locale=en&layout=compact" alt="sreeshilck" /></p> -->
 
