@@ -2,7 +2,7 @@
 <!-- ![Banner](https://raw.githubusercontent.com/sreeshilck/sreeshilck/main/banner.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Sreeshil</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeshilck&label=Profile%20views&color=0e75b6&style=flat" alt="sreeshilck" /> </p>
