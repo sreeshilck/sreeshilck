@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ecommerce**
 
-- 🌱 I’m currently learning **Typescript**
+<!--- 🌱 I’m currently learning **Typescript** -->
 
 - 💬 Ask me about **MERN stack and related technologies**
 
